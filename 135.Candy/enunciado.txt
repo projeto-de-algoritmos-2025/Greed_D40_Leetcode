@@ -1,0 +1,28 @@
+Há ncrianças em fila. Cada criança recebe um valor de classificação fornecido na matriz de inteiros ratings.
+
+Você está dando doces para essas crianças, sujeito aos seguintes requisitos:
+
+Cada criança deve ter pelo menos um doce.
+Crianças com classificação mais alta ganham mais doces que seus vizinhos.
+Devolva o número mínimo de doces que você precisa ter para distribuir os doces para as crianças .
+
+ 
+
+Exemplo 1:
+
+Entrada: classificações = [1,0,2]
+ Saída: 5
+ Explicação: Você pode alocar para a primeira, segunda e terceira criança 2, 1, 2 doces, respectivamente.
+Exemplo 2:
+
+Entrada: classificações = [1,2,2]
+ Saída: 4
+ Explicação: Você pode alocar para a primeira, segunda e terceira criança 1, 2, 1 doce, respectivamente.
+A terceira criança ganha 1 doce porque satisfaz as duas condições acima.
+ 
+
+Restrições:
+
+n == ratings.length
+1 <= n <= 2 * 104
+0 <= ratings[i] <= 2 * 104
