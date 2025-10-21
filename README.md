@@ -23,7 +23,8 @@
 ## Apresentação
 
 <div align="center">
-<a href="https://youtu.be/V2yUpufrJlM"><img src="https://img.youtube.com/vi/V2yUpufrJlM/maxresdefault.jpg" width="50%"></a>
+<a href="https://www.youtube.com/watch?v=WW3clP-cA6E"><img src="https://img.youtube.com/vi/V2yUpufrJlM/maxresdefault.jpg" width="50%"></a>
 </div>
+
 
 <font size="3"><p style="text-align: center">Autor: [João Paulo](https://github.com/joaombc) e [yan Guimarães](https://github.com/yanzin00).</p></font>
