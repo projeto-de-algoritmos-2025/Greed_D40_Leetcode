@@ -23,7 +23,7 @@
 ## Apresentação
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=WW3clP-cA6E"><img src="https://img.youtube.com/vi/V2yUpufrJlM/maxresdefault.jpg" width="50%"></a>
+<a href="https://www.youtube.com/watch?v=WW3clP-cA6E"><img src="https://img.youtube.com/vi/WW3clP-cA6E/maxresdefault.jpg" width="50%"></a>
 </div>
 
 
